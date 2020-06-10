@@ -1,11 +1,6 @@
 import javafx.embed.swing.SwingFXUtils;
 import javafx.scene.image.Image;
-import sun.awt.image.OffScreenImageSource;
-import sun.awt.image.ToolkitImage;
-
-import javax.swing.*;
 import java.awt.image.BufferedImage;
-import java.awt.image.FilteredImageSource;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
