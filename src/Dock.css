@@ -1,0 +1,11 @@
+.root {
+    -fx-background-color: transparent;
+}
+
+.button {
+ -fx-border-radius: 0px;
+ -fx-min-width:	50px;
+ -fx-min-height: 50px;
+ -fx-stroke-width: 0;
+ -fx-padding: 0px;
+}
